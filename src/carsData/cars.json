@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "people": 4,
+    "power":"Hybrid",
+    "km":"1.7/1-liter",
+    "faclties":"Automatic",
+    "Year": 2021,
+    "brand": "hundai",
+    "image": "/image/car1.jpg",
+    "price": "$20,000/month"
+  },
+  {
+    "id": 2,
+    "people": 4,
+    "power":"Hybrid",
+    "km":"1.7/1-liter",
+    "faclties":"Automatic",
+    "Year": 2021,
+    "brand": "nexon",
+    "image": "/image/car2.jpg",
+    "price": "$25,000"
+  },
+  {
+    "id": 3,
+    "people": 4,
+    "power":"Hybrid",
+    "km":"1.7/1-liter",
+    "faclties":"Automatic",
+    "Year": 2022,
+    "brand": "nexon",
+    "image": "/image/car2.jpg",
+    "price": "$25,000"
+  },
+  {
+    "id": 4,
+    "Year": 2023,
+    "people": 4,
+    "power":"Hybrid",
+    "km":"1.7/1-liter",
+    "faclties":"Automatic",
+    "brand": "hundai",
+    "image": "/image/car1.jpg",
+    "price": "$20,000"
+  },
+  {
+    "id": 5,
+    "Year": 2023,
+    "people": 4,
+    "power":"Hybrid",
+    "km":"1.7/1-liter",
+    "faclties":"Automatic",
+    "brand": "hundai",
+    "image": "/image/car1.jpg",
+    "price": "$20,000"
+  }
+]
